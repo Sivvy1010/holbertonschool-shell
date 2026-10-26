@@ -14,3 +14,4 @@ new file added to list files in current, parent and boot directories.\
 new script file added to check type of file for iamfile.\
 added new script 13-symbolic_link to create sybolic link.\
 new file added to copy all .html files from currenty directory to parent directory.\
+created new script to copy all files with upper case letters to /tmp/u/.\
