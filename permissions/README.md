@@ -14,3 +14,4 @@ Add new file 10-mirror_permissions to set hello permissions to 'reference' olleh
 Add new file 11-directories_permissions to add permissions to all file and sub directories to the owner, the group owner and all other users.
 Add new file 12-directory_permissions to create a new directory my_dir with permissions 751.\
 Add new file 13-change_group to change group of file hello to school group.\
+Add new file 14-change_owner_and_group to change ownership of files and directories to vincent and group ownership to staff.\
