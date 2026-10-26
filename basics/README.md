@@ -16,3 +16,4 @@ added new script 13-symbolic_link to create sybolic link.\
 new file added to copy all .html files from currenty directory to parent directory.\
 created new script to copy all files with upper case letters to /tmp/u/.\
 added new script to delete all files that contain ~ at end of file. \
+added new script to create directories welcome/, welcome/to/ and welcome/to/school with one command.\
