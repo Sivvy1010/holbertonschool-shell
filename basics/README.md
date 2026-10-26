@@ -11,3 +11,4 @@ added new script file to delete betty file from the /tmp/my_first_directory fold
 added new script file to remove my_first_directory from /tmp/ folder.\
 add new script file that changes the working directory to the previous one.\
 new file added to list files in current, parent and boot directories.\
+new script file added to check type of file for iamfile.\
