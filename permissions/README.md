@@ -11,3 +11,4 @@ Add new file 7-everybody, which changes permissions to user, groups and others t
 Add new file 8-James_Bond to set permissions for file hello to, Owner: no permission at all, Group: no permission at all, Other users: all the permissions.\
 Add new file 9-John_Doe to set permissions to file hello rwxr-x-wx.\
 Add new file 10-mirror_permissions to set hello permissions to 'reference' olleh permissions.\
+Add new file 11-directories_permissions to add permissions to all file and sub directories to the owner, the group owner and all other users.
