@@ -17,3 +17,4 @@ Add new file 13-change_group to change group of file hello to school group.\
 Add new file 14-change_owner_and_group to change ownership of files and directories to vincent and group ownership to staff.\
 Add new file 15-symbolic_link_permissions to changes the owner and the group owner of _hello to vincent and staff respectively.\
 The file _hello is in the working directory. The file _hello is a symbolic link.\
+Add new file 16-if_only, a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.\
