@@ -9,3 +9,4 @@ Add new file 5-execute to change hello file to have execute permissions.\
 Add new file 6-multiple_permissions to repository. Changes user and groups to execute and others to read only.\
 Add new file 7-everybody, which changes permissions to user, groups and others to execute.\
 Add new file 8-James_Bond to set permissions for file hello to, Owner: no permission at all, Group: no permission at all, Other users: all the permissions.\
+Add new file 9-John_Doe to set permissions to file hello rwxr-x-wx.\
