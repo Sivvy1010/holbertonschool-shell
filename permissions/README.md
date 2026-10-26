@@ -13,3 +13,4 @@ Add new file 9-John_Doe to set permissions to file hello rwxr-x-wx.\
 Add new file 10-mirror_permissions to set hello permissions to 'reference' olleh permissions.\
 Add new file 11-directories_permissions to add permissions to all file and sub directories to the owner, the group owner and all other users.
 Add new file 12-directory_permissions to create a new directory my_dir with permissions 751.\
+Add new file 13-change_group to change group of file hello to school group.\
