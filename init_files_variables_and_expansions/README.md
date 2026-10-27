@@ -14,4 +14,5 @@ Add file 9-divide_and_rule to print the result of POWER / DIVIDE.\
 Add file 10-love_exponent_breath displays the result of BREATH to the power LOVE.\
 Add file 11-binary_to_decimal converts a number from base 2 to base 10.\
 Add file 12-combinations prints all possible combinations of two letters, except oo.\
-Add file 13-print_float to print a number with two decimal places, followed by a new line.
+Add file 13-print_float to print a number with two decimal places, followed by a new line.\
+Add file 14-decimal_to_hexadecimal that converts a number from base 10 to base 16.
