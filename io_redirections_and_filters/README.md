@@ -20,3 +20,4 @@ Add file 17-hidethisword to display all the lines in the file /etc/passwd that d
 Add file 18-letteronly to display all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.\
 Add file 19-AZ, this script will replace all characters 'A' and 'c' from input to 'Z' and 'e'.\
 Add file 20-hiago, this script removes all letters c and C from input.\
+Add file 21-reverse to reverse input. \
