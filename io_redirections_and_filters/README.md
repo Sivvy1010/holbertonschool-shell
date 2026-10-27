@@ -7,3 +7,4 @@ Add file 4-lastlines to print last 10 lines of /etc/passwd.\
 Add file 5-firstlines to print the first 10 lines of /etc/passwd.\
 Add file 6-third_line to display the third line of the file iacta.\
 Add File 7-file to create a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.\
+Add File 8-cwd_state to list contents of ls -la into file ls_cwd_content.\
