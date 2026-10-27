@@ -17,3 +17,4 @@ Add file 14-findthatword to display lines containing the pattern "root" from fil
 Add file 15-countthatword to display the number of lines that contain the pattern "bin" in the file /etc/passwd.\
 Add file 16-whatsnext to display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.\
 Add file 17-hidethisword to display all the lines in the file /etc/passwd that do not contain the pattern "bin".\
+Add file 18-letteronly to display all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.\
