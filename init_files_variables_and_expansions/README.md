@@ -1,4 +1,4 @@
-#Shell, init files, variables and expansions.\
+#Shell, init files, variables and expansions.
 ___
 
 Add file 0-alias. A script that creates an alias for ls > rm -f *.\
@@ -11,3 +11,5 @@ Add file 6-create_local_variable to create a local variable named BEST to the va
 Add file 7-create_global_variable to create a global variable named BEST to the value of School.\
 Add file 8-true_knowledge, prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE.\
 Add file 9-divide_and_rule to print the result of POWER / DIVIDE.\
+Add file 10-love_exponent_breath displays the result of BREATH to the power LOVE.\
+
