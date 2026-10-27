@@ -12,3 +12,4 @@ Add file 9-duplicate_last_line to duplicate the last line of iacta file.\
 Add file 10-no_more_js to find all .js files on system and remove them. This is destructive and will remove all files with .js extension.\
 Add file 11-directories to list all directories and sub directories in the current working folder.\
 Add file 12-newest_files to list the 10 most newest files in the current directory.\
+Add file 13-unique to list words as input and prints only words that appear exactly once.\
