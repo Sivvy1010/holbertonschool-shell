@@ -18,3 +18,4 @@ Add file 15-countthatword to display the number of lines that contain the patter
 Add file 16-whatsnext to display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.\
 Add file 17-hidethisword to display all the lines in the file /etc/passwd that do not contain the pattern "bin".\
 Add file 18-letteronly to display all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.\
+Add file 19-AZ, this script will replace all characters 'A' and 'c' from input to 'Z' and 'e'.\
