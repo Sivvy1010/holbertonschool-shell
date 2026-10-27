@@ -9,3 +9,4 @@ Add file 6-third_line to display the third line of the file iacta.\
 Add File 7-file to create a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.\
 Add File 8-cwd_state to list contents of ls -la into file ls_cwd_content.\
 Add file 9-duplicate_last_line to duplicate the last line of iacta file.\
+Add file 10-no_more_js to find all .js files on system and remove them. This is destructive and will remove all files with .js extension.\
