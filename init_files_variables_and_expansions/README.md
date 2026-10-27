@@ -5,3 +5,4 @@ Add file 1-hello_you. A script that prints hello to the current user.\
 Add file 2-path. Adds /action to the PATH.\
 Add file 3-paths, this will count the number of directories in the PATH.\
 Add file 4-global_variables, This will list the environment variables.\
+Add file 5-local_variables, this will list all local variables and environment variables and functions.\
