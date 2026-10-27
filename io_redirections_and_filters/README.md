@@ -19,3 +19,4 @@ Add file 16-whatsnext to display lines containing the pattern "root" and 3 lines
 Add file 17-hidethisword to display all the lines in the file /etc/passwd that do not contain the pattern "bin".\
 Add file 18-letteronly to display all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.\
 Add file 19-AZ, this script will replace all characters 'A' and 'c' from input to 'Z' and 'e'.\
+Add file 20-hiago, this script removes all letters c and C from input.\
