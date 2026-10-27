@@ -6,3 +6,4 @@ Add file 3-twofiles to display contents of /etc/passwd and /etc/hosts.\
 Add file 4-lastlines to print last 10 lines of /etc/passwd.\
 Add file 5-firstlines to print the first 10 lines of /etc/passwd.\
 Add file 6-third_line to display the third line of the file iacta.\
+Add File 7-file to create a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.\
