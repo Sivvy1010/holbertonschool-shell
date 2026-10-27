@@ -14,3 +14,4 @@ Add file 11-directories to list all directories and sub directories in the curre
 Add file 12-newest_files to list the 10 most newest files in the current directory.\
 Add file 13-unique to list words as input and prints only words that appear exactly once.\
 Add file 14-findthatword to display lines containing the pattern "root" from file /etc/passwd.\
+Add file 15-countthatword to display the number of lines that contain the pattern "bin" in the file /etc/passwd.\
