@@ -6,3 +6,4 @@ Add file 2-path. Adds /action to the PATH.\
 Add file 3-paths, this will count the number of directories in the PATH.\
 Add file 4-global_variables, This will list the environment variables.\
 Add file 5-local_variables, this will list all local variables and environment variables and functions.\
+Add file 6-create_local_variable to create a local variable named BEST to the value of School.\
