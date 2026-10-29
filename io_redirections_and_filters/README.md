@@ -24,4 +24,5 @@ Add file '19-AZ' this script will replace all characters 'A' and 'c' from input 
 Add file '20-hiago' this script removes all letters c and C from input.\
 Add file '21-reverse' to reverse input. \
 Add file '22-users_and_homes' a script that dsiplays all users and their home directories, sorted by users.\
-Add file '23-empty_casks' finds all empty files and directories in the current directory and all sub directories.
+Add file '23-empty_casks' finds all empty files and directories in the current directory and all sub directories.\
+Add file '24-gifs' to find files with a '.gif' extension in the current directory and its sub directories.
