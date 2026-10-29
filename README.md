@@ -1,2 +1,4 @@
-#Git Holberton Shell Scripting\
-This script will print the current working directory\
+# **Git Holberton Shell Scripting\
+## This Repository is workflow created with Holberton school, designed to help learn git & github helping us learn Shell.\
+
+___
